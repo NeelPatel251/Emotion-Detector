@@ -1,0 +1,8 @@
+cv2
+keras
+streamlit
+numpy
+pandas
+tensorflow
+keras_preprocessing
+matplotlib
